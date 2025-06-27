@@ -3,7 +3,7 @@ Deploying Java Applications with Docker and Kubernetes
 
 Credit: https://github.com/danielbryantuk/oreilly-docker-java-shopping/
 
-## Clone the source code
+### Clone the source code
 ## install maven
 
 ## cd productcatalogue -> mvn clean install -> docker build -t ekangaki/productcatalogue:v1 -> docker images 
